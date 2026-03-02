@@ -14,6 +14,7 @@ This project demonstrates a simplified monitoring inspried by industrial quality
 -Component wear  
 -Environmental exposure  
 -Calibration degradation  
+
 Detecting drift early enable predicive maintenance and prevents systems failures
 
 ## Methodology
@@ -29,7 +30,9 @@ CUSUM is widely used in the industrial deviation monitoring and quality assuranc
 demonstrating its suitability for:**  
 Vehicle sensor diagnostics  
 Manufaturing quality monitoring  
-Predictive maintenance systems
+Predictive maintenance systems  
+
+![Drift Detection Output](Figure0).png)
 
 ## Technologies Used
 Python  
