@@ -4,13 +4,13 @@ Sensor drift is a critical issue in automotive and industrial systems. Gradual b
 This project demonstrates a simplified monitoring inspried by industrial quality control methods.
 
 ## Problem Context
-**In automotive systems, sensor montior:**
+**In automotive systems, sensor montior:**  
 Engine temperature  
 Battery health  
 Vibration Levels  
 Pressure systems
 
-**Overtime, sensors may drift due to:**
+**Overtime, sensors may drift due to:**  
 Component wear
 Environmental exposure
 Calibration degradation
