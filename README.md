@@ -5,15 +5,15 @@ This project demonstrates a simplified monitoring inspried by industrial quality
 
 ## Problem Context
 **In automotive systems, sensor montior:**  
-Engine temperature  
-Battery health  
-Vibration Levels  
-Pressure systems
+-Engine temperature  
+-Battery health  
+-Vibration Levels  
+-Pressure systems
 
 **Overtime, sensors may drift due to:**  
-Component wear  
-Environmental exposure  
-Calibration degradation  
+-Component wear  
+-Environmental exposure  
+-Calibration degradation  
 Detecting drift early enable predicive maintenance and prevents systems failures
 
 ## Methodology
@@ -36,7 +36,7 @@ Numpy
 Matplotlib
 
 # Future Improvements
-Adaptive thresolds
-Real-world sensor dataset integration
-Multivariate drift detection
+Adaptive thresolds  
+Real-world sensor dataset integration  
+Multivariate drift detection  
 Real-time monitoring system
