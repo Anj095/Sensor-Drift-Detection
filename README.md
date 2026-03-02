@@ -21,6 +21,7 @@ Detecting drift early enable predicive maintenance and prevents systems failures
 2. Introduced gradual liner drift after a stable period.
 3. Applied the CUSUM (Cumulative Sum) alogorithem to detect sustained deviation from baseline.
 4. Flagged drift when cumulative deviation exceeded a threshold.
+
 CUSUM is widely used in the industrial deviation monitoring and quality assurance.
 
 ## Results
