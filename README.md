@@ -32,7 +32,7 @@ Vehicle sensor diagnostics
 Manufaturing quality monitoring  
 Predictive maintenance systems  
 
-![Drift Detection Output](Figure0).png)
+![Drift Detection Output](Figure0.png)
 
 ## Technologies Used
 Python  
